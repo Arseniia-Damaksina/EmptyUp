@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+
+
+
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'custom1';
+  src: url('fonts/NHaasGroteskDSPro-55Rg.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'custom2';
+  src: url('fonts/HiraginoMaruGothiProNW4.otf') format('opentype');
+}
