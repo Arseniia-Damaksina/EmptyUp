@@ -3,6 +3,10 @@
 ## Status
 Work in progress 
 
+## Screenshots
+
+![Home page](client/public/emptyup.png)
+
 ## Description 
 EmptyUp is an application designed to showcase vacant buildings within a city. It relies on a community of users who contribute by uploading information about empty buildings to the platform.  
 
